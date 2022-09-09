@@ -3,7 +3,7 @@
 /**
 * main - Prints all posible different combination of three digits
 * Return: Always 0 (Success)
- */
+*/
 
 int main(void)
 {
@@ -29,5 +29,6 @@ int main(void)
 		}
 		}
 		}
-		putchar('\n')
+		putchar('\n');
 		return (0);
+}
